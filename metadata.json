@@ -1,0 +1,6 @@
+{
+  "name": "AcademyPro - Academy Management System",
+  "description": "Comprehensive academy management platform for admissions, fee proration, voucher generation, payment tracking, and student self-service portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
